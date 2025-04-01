@@ -41,4 +41,4 @@ fi
 tmux attach-session -t $SESH
 
 # running example:
-# sh frontend-dev-template.sh "Frontend_Session" "~/git/project"
+# ./frontend-dev-template.sh "Frontend_Session" "~/git/project"
